@@ -1,0 +1,10 @@
+/.vs
+XWallPaper.pro.user
+debug
+release
+x64
+Debug
+Release
+*.pdb
+
+
